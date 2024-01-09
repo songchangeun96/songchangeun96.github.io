@@ -1,0 +1,114 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Changeun Song
+    - name: Languages
+      value: Korean, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. Student, Computer Science and Engineering
+      institution: University of California, San Diego (Co-advisor: Prof. Mingu Kang & Tajana Rosing)
+      year: Sep. 2022 – Present
+      description:
+        - GPA of 3.93/4.0
+    - title: B.E, Electrical Engineering
+      institution: Korea University
+      year: Mar. 2016 – Feb. 2022
+      description:
+        - GPA of 4.17/4.5 (Major GPA of 4.43/4.5)
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: System Energy Efficiency LAB, UC San Diego
+      year: Jan. 2023 – Present
+      description:
+        - Hyperdimensional Computing with ReRAM ASIC
+        - HDnn: A Hybrid Hyperdimensional Computing Accelerator
+    - title: Research Assistant
+      institution: Vertically-integrated VLSI Information Processing LAB, UC San Diego
+      year: Sep. 2022 – Present
+      description:
+        - Efficient Transformer Acceleration via Reconfiguration
+        - XGBoost Decision Tree using Modular Unit tree ASIC Design
+    - title: Research Intern
+      institution: VLSI Signal Processing LAB, Korea University
+      year: Sep. 2021 – Dec. 2021
+      description:
+        - Enhanced Stability of SRAM cells
+    - title: Research Intern
+      institution: Nano-scale Integrated Circuits for Excellence LAB, NTU
+      year: Jun. 2021 – Aug. 2021
+      description:
+        - Research on Computing-In-Memory
+    - title: Research Intern
+      institution: Bio-Application System & IC LAB, Korea University
+      year: Jan. 2021 – Jun. 2021
+      description:
+        - Designed Advanced LDO Linear Regulator ICs
+
+- title: Publications
+  type: list
+  contents:
+    - "C. E. Song, et al., T. Rosing, and M. Kang, “Efficient Transformer Acceleration via Reconfiguration for Encoder and Decoder Models and Sparsity-Aware Algorithm Mapping” (under review), Design Automation Conference (DAC), 2024"
+    - "C. E. Song, et al., T. Rosing, and M. Kang, “52.5 TOPS/W 1.7GHz Reconfigurable XGBoost Inference Accelerator based on Modular-Unit-Tree with Dynamic Data and Compute Gating”, IEEE Custom Integrated Circuits Conference (CICC), 2024"
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Intern
+      institution: Schneider Electric
+      year: Mar. 2020 – Aug. 2020
+      description:
+        - Researched about Smart Factory and Energy & IoT Solutions
+
+- title: Patent
+  type: list
+  contents:
+    - "Changeun Song, “Method and System for Providing Virtual Reality Space”, 10-2368-9530000, Republic of Korea, 2022"
+
+- title: Skills
+  type: list
+  contents:
+    - Model Sim, Design Vision, iverilog
+    - Cadence - Virtuoso, Genus, Innovus, Xcelium, simvision, Pspice
+    - Synopsys - Design Complier, VCS, DVE
+    - Verilog, SystemVerilog, C/C++, Python, MATLAB, Linux OS, Server Management
+
+- title: Activities (Continued)
+
+- title: Activities
+  type: list
+  contents:
+    - "HY Meister Degree - Semiconductor, HY Education Innovation Division (Open Badge), Jan. 2022 – Mar. 2022"
+    - Completion of semiconductor integration, application, and process technology expert course
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Samsung Electronics Global Talent Ph.D. Fellowship
+- year: 2022
+      items: 
+        - Hackers Family Scholarship
+        - Fund Scholarship, College of Engineering: Apple & San Francisco Alumni Association of Korea University
+    - year: 2021
+      items:
+        - Seongnam Scholarships
+        - Dean’s List on 2nd Semester of 2020 with GPA 4.5/4.5, Korea University
+        - Semester High Honors at School of Engineering, Korea University
+    - year: 2020
+      items:
+        - Semester High Honors at School of Engineering, Korea University
+    - year: 2017
+      items:
+        - Semester High Honors at School of Engineering, Korea University
+        - Top-honor Scholarships at School of Electrical Engineering, Korea University
+    - year: 2016
+      items:
+        - Top-honor Scholarships at School of Electrical Engineering, Korea University
